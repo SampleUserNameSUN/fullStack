@@ -1,0 +1,25 @@
+@charset "UTF-8";
+
+tr, td {
+	padding: 15px;
+}
+
+td {
+	background: yellow;
+}
+
+caption {
+	font-size: 30px;
+	font-weight: bold;
+	line-height: 150%;
+}
+
+table {
+	background: green;
+	border: 1px solod pink;
+	width: 90%;
+}
+
+body {
+	background: white;
+}
